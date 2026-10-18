@@ -1,2 +1,17 @@
-# prof.-training-in-mobile-app
-watchmate: A modern, dark-themed Flutter application to track movies and series. Features local user authentication (SHA-256 hashed passwords), a personal library with status tracking (Watchlist/Watching/Watched), star ratings, and search functionality. Built with Flutter, Dart, and SharedPreferences.
+# watchmate
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
